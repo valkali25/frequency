@@ -23,7 +23,7 @@
 
 
 body{
-    font-family: 'Josefin Sans', sans-serif;
+/*     font-family: 'Josefin Sans', sans-serif; */
     background-color: white;
     overflow-y: hidden;
 
@@ -195,7 +195,7 @@ nav{
 }
 .customButton{
     
-    font-family: 'Alef', sans-serif;
+/*     font-family: 'Alef', sans-serif; */
     background-image: linear-gradient(to top, #450eb8 0, #a617c8 100%);
     padding: 10px 15px;
     box-shadow: 0px 0px 10px 0px rgb(0, 0, 0);
@@ -205,7 +205,7 @@ nav{
 
 }
 .buttonHero{
-    font-family: 'Alef', sans-serif;
+/*     font-family: 'Alef', sans-serif; */
     background-image: linear-gradient(to top, #2a6fca 0, #450eb8 100%);
     padding: 10px 15px;
     box-shadow: 0px 0px 10px 0px rgb(0, 0, 0);
