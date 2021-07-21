@@ -22,26 +22,26 @@
 .heading{
     font-size: 40px;
     margin: 30px 0px;
-    font-family: 'Josefin Sans', sans-serif;
+/*     font-family: 'Josefin Sans', sans-serif; */
 
 }
 .small-heading{
     font-size: 22px;
     margin: 30px 0px;
-    font-family: 'Josefin Sans', sans-serif;
+/*     font-family: 'Josefin Sans', sans-serif; */
 
 }
 
 .para{
     font-size: 20px;
     margin: 10px 0px;
-    font-family: 'Josefin Sans', sans-serif;
+/*     font-family: 'Josefin Sans', sans-serif; */
 }
 a{
     color: rgb(255, 255, 255);
     text-shadow: none;
     text-decoration: none;
-    font-family: 'Josefin Sans', sans-serif;
+/*     font-family: 'Josefin Sans', sans-serif; */
 }
 
 
