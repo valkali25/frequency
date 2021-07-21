@@ -1,0 +1,99 @@
+body, html {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.heading{
+    /* font-family: 'Otomanopee One', sans-serif; */
+    font-size:xx-large;
+    font-weight: 900;
+
+}
+p {
+    font-weight: lighter !important;
+}
+
+.cardImg{
+    width: 16rem;
+}
+
+.bgSale{
+    background-image: url('../images/hero.jpg');
+    background-position: center;
+    size:cover;
+}
+
+.bgSale2{
+    background-image: linear-gradient(to top, #450eb8 0, #a617c8 100%);
+
+}
+
+.smallImg{
+    width: 6rem;
+}
+
+.bgDarkGray{
+    background-color: gray;
+}
+.margin5px{
+    margin: 5px 0px;
+    
+}
+
+
+
+.footer-dis{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    margin: auto;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.footer-dis p{
+    width: 30%;
+    font-size: 16px;
+    text-align: right;
+   
+}
+.footer-term-con{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 100%;
+}
+.footer-term-con p{
+    width: 30%;
+    font-size: 10px;
+    text-align: left;
+}
+
+.testimonials-parent{
+    margin: auto;
+    text-align: center;
+    
+
+}
+.testimonial{
+    width: 90%;
+    padding: 100px 0px;
+}
+
+.testimonial h3{
+    padding: 40px 0px;
+    width: 80%;
+   margin: auto;
+}
+
+.testimonial-img img{
+    width: 80%;
+}
+
+.testimonial-btn{
+    margin: auto;
+    padding: 50px 0px;
+}
+.testimonial-btn a{
+    padding: 20px 30px;
+    background-image: linear-gradient(to top, #450eb8 0, #a617c8 100%);
+}
